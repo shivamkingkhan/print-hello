@@ -1,2 +1,3 @@
 # print-hello
-Print hello
+Print ("hello")
+Hello
